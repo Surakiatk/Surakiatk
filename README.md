@@ -144,10 +144,6 @@ graph LR
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-  <img src="./assets/tech_stack.png" width="85%" alt="Tech Stack"/>
-</div>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Tech Arsenal
 
 <div align="center">
@@ -322,34 +318,6 @@ flowchart TB
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"/> &nbsp;GitHub Analytics
-
-<!--
-  💡 หาก GitHub Stats / Top Langs ไม่โหลด ให้ self-deploy:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy ไปที่ Vercel ของคุณเอง
-  3. เปลี่ยน URL ด้านล่างเป็น your-app-name.vercel.app
--->
-
-<div align="center">
-
-<!-- STREAK STATS (demolab - reliable) -->
-<a href="https://github.com/Surakiatk">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Surakiatk&theme=algolia&hide_border=true&background=0d1117&ring=42a5f5&fire=ef5350&currStreakLabel=42a5f5&sideLabels=90caf9&currStreakNum=e3f2fd&dates=546e7a&sideNums=e3f2fd" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
-<!-- ACTIVITY GRAPH (separate project - reliable) -->
-<a href="https://github.com/Surakiatk">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surakiatk&bg_color=0d1117&color=42a5f5&line=42a5f5&point=e3f2fd&area_color=1565c0&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph"/>
-</a>
-
-</div>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 ## 🏆 &nbsp;Achievements
 
 <br/>
@@ -403,7 +371,7 @@ flowchart TB
 
 </div>
 
-> ⚠️ **หมายเหตุ:** Snake จะปรากฏหลังจาก push ไปยัง GitHub แล้วรัน Action ครั้งแรก — ไปที่ **Actions** tab → กด **Run workflow**
+
 
 
 <!-- DIVIDER -->
