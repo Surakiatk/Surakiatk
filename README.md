@@ -39,50 +39,18 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;`$ whoami`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-#!/usr/bin/env python3
-"""
-  ╔═════════════════════════════════════════════╗
-  ║  SURAKIAT KONGCHANA                         ║
-  ║  AI Engineer | LLM Architect | Backend Dev  ║
-  ║  "Ship AI systems that work in production"  ║
-  ╚═════════════════════════════════════════════╝
-"""
+> **Surakiat Kongchana** (BBEER) — AI Engineer based in Thailand 🇹🇭
 
-class SurakiatKongchana:
-    
-    def __init__(self):
-        self.name      = "Surakiat Kongchana"
-        self.alias     = "BBEER"
-        self.role      = "AI Engineer"
-        self.education = "B.Sc. Data Science - Naresuan Univ."
-        self.location  = "Thailand"
-        
-    @property
-    def stack(self) -> dict:
-        return {
-            "AI/LLM":  ["LangChain", "LangGraph",
-                        "RAG", "Qdrant", "Ollama"],
-            "Backend": ["FastAPI", "Redis", "MySQL"],
-            "Cloud":   ["AWS", "Docker", "GitLab CI"],
-            "Data":    ["PyTorch", "Pandas", "Jupyter"],
-        }
-    
-    @property
-    def highlights(self) -> list:
-        return [
-            "LotusAI - 4-stage AI @ CP AXTRA",
-            "60% token cut | 70% cost savings",
-            "10 min -> 1 min resolution time",
-            "Super AI Engineer + Hackathon W",
-        ]
-
-me = SurakiatKongchana()
-```
+- 🧠 **Role:** AI Engineer | LLM Architect | Backend Developer
+- 🎓 **Education:** B.Sc. Data Science — Naresuan University
+- 🏗️ **Built LotusAI** — 4-stage AI ecosystem @ CP AXTRA
+- 📉 **Impact:** 60% token cut · 70% cost savings · CSAT 4.4/5
+- ⚡ **Resolution:** 10 min → 1 min support ticket time
+- 🏆 **Awards:** Super AI Engineer S5 · Hackathon Finalist
 
 <br clear="both"/>
 
@@ -91,30 +59,27 @@ me = SurakiatKongchana()
 
 ## ⚡ &nbsp;Current Dev Focus
 
-```yaml
-🔭 Working On:
-  - AI-powered chatbots with RAG & LangGraph
-  - Production LLM systems with token optimization
-  - Synthetic data generation pipelines
+🔭 **Working On:**
+- AI-powered chatbots with RAG & LangGraph
+- Production LLM systems with token optimization
+- Synthetic data generation pipelines
 
-🌱 Learning:
-  - Advanced AI Agent architectures (multi-agent systems)
-  - MLOps & model deployment at scale
-  - Cloud-native AI services on AWS
+🌱 **Learning:**
+- Advanced AI Agent architectures (multi-agent systems)
+- MLOps & model deployment at scale
+- Cloud-native AI services on AWS
 
-🛠️ Daily Tools:
-  editor: VS Code + GitHub Copilot
-  terminal: Zsh + tmux
-  ai: LangChain + Ollama + Qdrant
-  backend: FastAPI + Redis + Docker
-  versioning: Git + GitLab CI/CD
+🛠️ **Daily Tools:**
+- **Editor:** VS Code + GitHub Copilot
+- **AI Stack:** LangChain · Ollama · Qdrant
+- **Backend:** FastAPI · Redis · Docker
+- **DevOps:** Git · GitLab CI/CD
 
-💬 Ask me about:
-  - Building RAG pipelines from scratch
-  - LLM cost optimization strategies
-  - FastAPI best practices
-  - Synthetic data generation
-```
+💬 **Ask me about:**
+- Building RAG pipelines from scratch
+- LLM cost optimization strategies
+- FastAPI best practices
+- Synthetic data generation
 
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
