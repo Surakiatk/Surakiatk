@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<!-- CUSTOM HERO BANNER -->
-<img src="./assets/hero_banner.png" width="100%" alt="Surakiat Kongchana — AI Engineer"/>
 
 <!-- WAVE OVERLAY -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d47a1,100:0d1117&height=80&section=header&animation=fadeIn" width="100%"/>
@@ -151,7 +149,7 @@ graph LR
 
 </details>
 
-<details>
+<details open>
 <summary><b>🧠 Artificial Intelligence Association of Thailand — AI Engineer &nbsp;|&nbsp; Dec 2024 – Nov 2025 &nbsp;|&nbsp; Pathum Thani</b></summary>
 <br/>
 
@@ -165,7 +163,7 @@ graph LR
 
 </details>
 
-<details>
+<details open>
 <summary><b>🌏 Enov8 — Back-End Developer &nbsp;|&nbsp; Feb 2024 – Apr 2025 &nbsp;|&nbsp; Sydney, Australia (Remote)</b></summary>
 <br/>
 
@@ -387,11 +385,7 @@ flowchart TB
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 &nbsp;Trophy Cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surakiatk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%" alt="Trophies"/>
-</div>
+## 🏆 &nbsp;Achievements
 
 <br/>
 
@@ -446,12 +440,6 @@ flowchart TB
 
 > ⚠️ **หมายเหตุ:** Snake จะปรากฏหลังจาก push ไปยัง GitHub แล้วรัน Action ครั้งแรก — ไปที่ **Actions** tab → กด **Run workflow**
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="70%" alt="Dev Quote"/>
-</div>
 
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
